@@ -1,4 +1,0 @@
-﻿  Main.cpp
-D:\LABS2SEM\OC\Laba№4\Main\Main\Main.cpp(20,17): warning C4101: si: неиспользованная локальная переменная
-D:\LABS2SEM\OC\Laba№4\Main\Main\Main.cpp(21,25): warning C4101: pi: неиспользованная локальная переменная
-  Main.vcxproj -> D:\LABS2SEM\OC\Laba№4\Main\x64\Debug\Main.exe

@@ -1,3 +1,0 @@
-﻿  Sender.cpp
-D:\LABS2SEM\OC\Laba№4\Main\Sender\Sender.cpp(72,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  Sender.vcxproj -> D:\LABS2SEM\OC\Laba№4\Main\x64\Debug\Sender.exe
